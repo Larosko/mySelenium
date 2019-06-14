@@ -1,0 +1,9 @@
+[INFO ] 2019-06-11 16:24:32.782 [main] Log4Demo - This is info msg
+[ERROR] 2019-06-11 16:24:32.786 [main] Log4Demo - This is error msg
+[WARN ] 2019-06-11 16:24:32.786 [main] Log4Demo - This is warning msg
+[FATAL] 2019-06-11 16:24:32.786 [main] Log4Demo - This is fatal msg
+[TRACE] 2019-06-11 16:25:09.754 [main] Log4Demo - This is trace msg
+[INFO ] 2019-06-11 16:25:09.758 [main] Log4Demo - This is info msg
+[ERROR] 2019-06-11 16:25:09.759 [main] Log4Demo - This is error msg
+[WARN ] 2019-06-11 16:25:09.759 [main] Log4Demo - This is warning msg
+[FATAL] 2019-06-11 16:25:09.759 [main] Log4Demo - This is fatal msg
