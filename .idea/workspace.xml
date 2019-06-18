@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfecac1a-f75c-47bd-a782-16d6715c96ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNG2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/listeners/TwstNGListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/listeners/TestNGListeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGGroups.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGGroups.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -101,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestNGGroups.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="187">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -159,9 +158,9 @@
         <option value="$PROJECT_DIR$/TestNG3.xml" />
         <option value="$PROJECT_DIR$/src/test/java/demo/TestNGMultiBrowserDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/demo/TestNGGroupsDemo.java" />
-        <option value="$PROJECT_DIR$/TestNGGroups.xml" />
         <option value="$PROJECT_DIR$/src/test/java/listeners/TwstNGListeners.java" />
         <option value="$PROJECT_DIR$/TestNG2.xml" />
+        <option value="$PROJECT_DIR$/TestNGGroups.xml" />
       </list>
     </option>
   </component>
@@ -265,7 +264,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560843438975" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560843911518" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -442,7 +441,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22087745" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22087745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -451,12 +450,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.70121026" visible="true" weight="0.43535188" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.70121026" weight="0.43535188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2987897" side_tool="true" weight="0.6121113" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.3289689" />
@@ -674,8 +673,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestNGGroups.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="187">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>

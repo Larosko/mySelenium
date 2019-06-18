@@ -4,9 +4,12 @@
 
     <test name="Test1">
         <groups>
+            <define name="Regression1">
+                <include name="regression"/>
+                <include name="smoke"/>
+            </define>
             <run>
-                <include name="sanity"/>
-                <exclude name="regression"/>
+                <include name="Regression1"/>
             </run>
         </groups>
         <classes>
