@@ -2,7 +2,7 @@ package listeners;
 
 import org.testng.*;
 
-public class TwstNGListeners implements ITestListener {
+public class TestNGListeners implements ITestListener {
     @Override
     public void onTestStart(ITestResult iTestResult) {
         System.out.println("****** Test Started: " + iTestResult.getName());
